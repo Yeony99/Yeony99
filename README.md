@@ -12,7 +12,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/naa._.yeony/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](ny.yeony.kim@google.com)<br/>
-[![Yeony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeony99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Yeony's github stats](https://github-readme-stats.vercel.app/api?username=Yeony99&show_icons=true)
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeony99&count_bg=%23249232&title_bg=%23000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
